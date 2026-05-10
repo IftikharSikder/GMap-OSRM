@@ -85,5 +85,3 @@ Add to `ios/Runner/Info.plist`:
 ## 📄 License
 
 This project is open source.
-
----
